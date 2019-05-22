@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jieqian2345",
+    "sha256_cert_fingerprints":
+    ["E9:58:CE:1D:4B:CD:D1:E3:E6:44:7E:6E:48:96:69:00:46:03:02:A4:50:2B:0F:C9:F7:D3:97:D1:8D:34:DB:92"]
+  }
+}]
